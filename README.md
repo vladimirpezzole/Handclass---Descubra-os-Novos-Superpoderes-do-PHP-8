@@ -3,6 +3,8 @@
 # UPDATES & FEATURES = SUPERPODERES:
 <small>*by Robson V. Leite*</smalll>
 
+<h4>[>> Video](https://youtu.be/Tug1fuqk0k0)</h4>
+
 **PS.** Vou trazer as atualizações mais importantes desde o PHP 7.2 para compreender o grande salto em tecnologia e modernização que o PHP deu. Fechado?
 
 **<?php updates.php**
