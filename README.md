@@ -1,7 +1,10 @@
 <h5><i>
 <b><u>Aula do dia dia 28 de março (19 horas)</u></b>
-<br><b>Handclass - Descubra os Novos Superpoderes do PHP 8</b><br>
-<br>OBS.: Os códigos PHP estão no arquivo <b>handclass.php</b>
+<br>
+<b>Handclass - Descubra os Novos Superpoderes do PHP 8</b>
+<br>
+<br>OBS.:
+<br>-- Os códigos PHP estão separados no arquivo [handclass.php]
 </i></h5>
 <hr>
 
