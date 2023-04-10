@@ -8,6 +8,7 @@
 ```docker compose up -d``` *ou* ```docker-compose up -d```.
 
 **Ou apenas copie os arquivos da pasta [ /public ] para onde desejar.**
+
 **Os códigos PHP estão separados no arquivo [ handclass.php ]**
 
 <hr>
