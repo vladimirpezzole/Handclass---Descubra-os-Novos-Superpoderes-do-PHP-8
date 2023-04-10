@@ -2,18 +2,15 @@
 
 **Handclass - Descubra os Novos Superpoderes do PHP 8**
 
-**
-OBS.:
-Para rodar o ++DOCKER++ com ++PHP 8.2++ execute o comando 
-**
+**OBS.:**
+**Para rodar o <u>DOCKER</u> com <u>PHP 8.2</u> execute o comando**
 
 ```
 docker compose up -d``` *ou* ```docker-compose up -d```.
 
-**
-Ou apenas copie os arquivos da pasta [ /public ] para onde desejar.
-Os códigos PHP estão separados no arquivo [ handclass.php ]
-**
+**Ou apenas copie os arquivos da pasta [ /public ] para onde desejar.**
+**Os códigos PHP estão separados no arquivo [ handclass.php ]**
+
 <hr>
 
 ##### Handclass - Descubra os Novos Superpoderes do PHP 8 – Ao vivo dia 28 de março às 19 horas.
