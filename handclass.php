@@ -1,11 +1,12 @@
 <?php
-    declare(strict_types=1); //
+  declare(strict_types=1); //
 
-    // MOSTRAR ERROS
+  // MOSTRAR ERROS
     ini_set('display_errors', 1);
     error_reporting(E_ALL);
     //
 
+  // **** PHP 7.2 ****
     echo "<hr><h2>PHP 7.2</h2>";
     echo "<h4>PARSE STR</h4>";
 
@@ -39,6 +40,7 @@
       user($user)->name
     );
 
+  // **** PHP 7.3 ****
     echo "<hr><h2>PHP 7.3</h2>";
      echo "<h4>LIST</h4>";
 
@@ -78,7 +80,7 @@
 
      var_dump($_COOKIE);
 
-
+  // **** PHP 7.4 ****
     echo "<hr><h2>PHP 7.4</h2>";
     echo "<h4>TYPED PROPERTIES</h4>";
 
@@ -136,7 +138,7 @@
     echo $firstName("Pedro V. Leite");
     echo $firstName("Lucas V. Leite");
 
-
+  // **** PHP 8.0 ****
     echo "<hr><h2>PHP 8.0</h2>";
      echo "<h4>JIT</h4>";
      echo "<code>
@@ -210,7 +212,7 @@
 
       var_dump(myCar("Taos", year: 2023));
 
-
+  // **** PHP 8.1 ****
     echo "<hr><h2>PHP 8.1</h2>";
     echo "<h4>ENUMS</h4>";
 
@@ -281,6 +283,7 @@
       ]
     );
 
+  // **** PHP 8.2 ****
     echo "<hr><h2>PHP 8.2</h2>";
     echo "<h4>TRAIT CONSTANT</h4>";
 
