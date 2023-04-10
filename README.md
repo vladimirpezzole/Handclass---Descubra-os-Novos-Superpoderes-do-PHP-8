@@ -5,8 +5,7 @@
 **OBS.:**
 **Para rodar o <u>DOCKER</u> com <u>PHP 8.2</u> execute o comando**
 
-```
-docker compose up -d``` *ou* ```docker-compose up -d```.
+```docker compose up -d``` *ou* ```docker-compose up -d```.
 
 **Ou apenas copie os arquivos da pasta [ /public ] para onde desejar.**
 **Os códigos PHP estão separados no arquivo [ handclass.php ]**
