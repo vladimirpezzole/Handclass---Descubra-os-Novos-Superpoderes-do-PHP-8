@@ -9,12 +9,12 @@
 
 **<?php updates.php**
 
-- [ ] **PHP 7.2: parse_str | number_format | object typehint** (*get_class not null)
-- [ ] **PHP 7.3: list | compact | setcookie** (*json throw, array first & last key, EOT, is_countable)
-- [ ] **PHP 7.4: typed properties, arrow functions** (*reference type, underscore num separator, array inside parts)
-- [ ] **PHP 8.0: JIT, constructor property promotion, named params** (*union and mixed types, match, new functions)
-- [ ] **PHP 8.1: enums** (*fibers, readonly properties, intersection types, never return)
-- [ ] **PHP 8.2: trait constant | (!) deprecations** (*disjoint normal form, stand-alone types, readonly class)
+- [x] <s>**PHP 7.2: parse_str | number_format | object typehint** (*get_class not null)</s>
+- [x] <s>**PHP 7.3: list | compact | setcookie** (*json throw, array first & last key, EOT, is_countable)</s>
+- [x] <s>**PHP 7.4: typed properties, arrow functions** (*reference type, underscore num separator, array inside parts)</s>
+- [x] <s>**PHP 8.0: JIT, constructor property promotion, named params** (*union and mixed types, match, new functions)</s>
+- [x] <s>**PHP 8.1: enums** (*fibers, readonly properties, intersection types, never return)</s>
+- [x] <s>**PHP 8.2: trait constant | (!) deprecations** (*disjoint normal form, stand-alone types, readonly class)</s>
 
 
 ** *Não são superpoderes, mas você deveria aprender sobre!**
